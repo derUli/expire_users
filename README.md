@@ -2,7 +2,7 @@
 Set an expire date for user accounts.
 If the expire date is reached, the account will get locked.
 
-## Dependenies
+## Dependencies
 * user_settings >= 1.0
 * better_cron >= 1.0
 
