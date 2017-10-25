@@ -1,0 +1,13 @@
+{
+	"id": "expire_users",
+	"version": "1.0",
+	"description": "User Expire Date",
+	"categories": [
+		"admin"
+	],
+	"compatible_from": "2017.4",
+	"dependencies": [
+		"better_cron",
+		"user_settings"
+	]
+}
